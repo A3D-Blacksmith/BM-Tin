@@ -1,0 +1,9 @@
+{
+    "name": "Laminate Floor 02",
+    "creator": "Polyhaven",
+    "category": "Materials",
+    "filename": "Assets.zip",
+    "tags": "even,flat,wooden,floor,laminate",
+    "website": "https://polyhaven.com/a/laminate_floor_02",
+    "powerplug":{"mode":"blend", "src":"BathroomSink.blend"}
+}
