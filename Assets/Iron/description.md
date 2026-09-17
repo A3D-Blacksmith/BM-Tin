@@ -1,0 +1,1 @@
+Iron is a strong, dark grey industrial metal with a subdued metallic response, prone to rust when exposed. This material fits machinery, tools, structural beams, and worn industrial scenes.

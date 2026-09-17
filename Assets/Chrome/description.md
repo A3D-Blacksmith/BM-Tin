@@ -1,0 +1,1 @@
+Chrome is a hard, bright metal finish with an almost mirror-like reflectivity. This material delivers the crisp, highly reflective surface typical of automotive trim, bathroom fixtures, and furniture.

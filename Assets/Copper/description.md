@@ -1,0 +1,1 @@
+Copper is a warm orange-red metal with strong reflectivity that ages into a characteristic green patina. This material captures its fresh, glowing surface for wiring, cookware, roofing, and decorative accents.

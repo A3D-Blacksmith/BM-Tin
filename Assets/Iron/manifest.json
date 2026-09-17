@@ -1,0 +1,12 @@
+{
+    "name": "Iron",
+    "creator": "A3D-Blacksmith",
+    "category": "Materials",
+    "filename": "Assets.zip",
+    "tags": "metal,iron,grey,dark,industrial,metallic,strong",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "Iron.blend"
+    }
+}

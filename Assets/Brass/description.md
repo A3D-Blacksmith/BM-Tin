@@ -1,0 +1,1 @@
+Brass is a copper-zinc alloy with a warm golden-yellow tone, valued for decorative hardware, instruments, and fittings. This material reproduces its soft, polished sheen and rich reflective glow.

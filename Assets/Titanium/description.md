@@ -1,0 +1,1 @@
+Titanium is a strong, low-density grey metal with a subtle warm sheen and outstanding corrosion resistance. This material suits aerospace parts, medical implants, and high-end consumer products.

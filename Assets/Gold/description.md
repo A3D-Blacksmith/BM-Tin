@@ -1,0 +1,1 @@
+Gold is a dense, soft precious metal with a rich warm-yellow colour and distinctive soft reflections. This material suits jewellery, coins, awards, and luxury product visualisation.

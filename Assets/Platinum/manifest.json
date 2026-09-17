@@ -1,0 +1,12 @@
+{
+    "name": "Platinum",
+    "creator": "A3D-Blacksmith",
+    "category": "Materials",
+    "filename": "Assets.zip",
+    "tags": "metal,platinum,silver,white,precious,metallic,dense",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "Platinum.blend"
+    }
+}

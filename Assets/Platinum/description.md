@@ -1,0 +1,1 @@
+Platinum is a dense, silvery-white precious metal with a soft, even sheen and excellent tarnish resistance. This material is suited to fine jewellery, laboratory equipment, and premium product renders.

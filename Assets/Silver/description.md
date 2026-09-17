@@ -1,0 +1,1 @@
+Silver is a bright white precious metal with the highest electrical and thermal conductivity of any metal. This material captures its brilliant, cool reflections for tableware, jewellery, and mirrors.

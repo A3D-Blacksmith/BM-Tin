@@ -1,0 +1,12 @@
+{
+    "name": "Titanium",
+    "creator": "A3D-Blacksmith",
+    "category": "Materials",
+    "filename": "Assets.zip",
+    "tags": "metal,titanium,grey,strong,lightweight,metallic,aerospace",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "Titanium.blend"
+    }
+}

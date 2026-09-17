@@ -1,0 +1,12 @@
+{
+    "name": "Silver",
+    "creator": "A3D-Blacksmith",
+    "category": "Materials",
+    "filename": "Assets.zip",
+    "tags": "metal,silver,white,bright,precious,metallic,reflective",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "Silver.blend"
+    }
+}

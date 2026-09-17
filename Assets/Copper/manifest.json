@@ -1,0 +1,12 @@
+{
+    "name": "Copper",
+    "creator": "A3D-Blacksmith",
+    "category": "Materials",
+    "filename": "Assets.zip",
+    "tags": "metal,copper,orange,red,metallic,conductive,patina",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "Copper.blend"
+    }
+}

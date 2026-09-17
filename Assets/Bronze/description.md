@@ -1,0 +1,1 @@
+Bronze is a copper-tin alloy with a deep reddish-brown hue that develops a muted patina over time. This material works well for sculptures, bells, marine hardware, and antique-style props.

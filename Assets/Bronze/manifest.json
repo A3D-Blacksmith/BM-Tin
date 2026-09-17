@@ -1,0 +1,12 @@
+{
+    "name": "Bronze",
+    "creator": "A3D-Blacksmith",
+    "category": "Materials",
+    "filename": "Assets.zip",
+    "tags": "metal,bronze,copper,brown,alloy,metallic,aged",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "Bronze.blend"
+    }
+}

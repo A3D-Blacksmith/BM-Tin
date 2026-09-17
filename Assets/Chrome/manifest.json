@@ -1,0 +1,12 @@
+{
+    "name": "Chrome",
+    "creator": "A3D-Blacksmith",
+    "category": "Materials",
+    "filename": "Assets.zip",
+    "tags": "metal,chrome,chrome,mirror,polished,reflective,metallic",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "Chrome.blend"
+    }
+}

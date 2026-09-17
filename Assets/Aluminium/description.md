@@ -1,0 +1,1 @@
+Aluminium is a lightweight, silvery-white metal known for its high reflectivity and excellent corrosion resistance. This material captures its clean, slightly brushed metallic surface, suited to modern appliances, aircraft parts, and industrial design.

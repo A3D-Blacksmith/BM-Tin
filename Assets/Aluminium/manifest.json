@@ -1,0 +1,12 @@
+{
+    "name": "Aluminium",
+    "creator": "A3D-Blacksmith",
+    "category": "Materials",
+    "filename": "Assets.zip",
+    "tags": "metal,aluminium,silver,metallic,brushed,lightweight",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "Aluminium.blend"
+    }
+}
