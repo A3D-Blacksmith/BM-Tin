@@ -1,0 +1,1 @@
+Metal gutter component for roof drainage systems, with weathered industrial appearance and modular connectivity.

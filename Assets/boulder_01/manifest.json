@@ -1,0 +1,12 @@
+{
+    "name": "Boulder 01",
+    "creator": "A3D-Blacksmith",
+    "category": "Models",
+    "filename": "Assets.zip",
+    "tags": "rock,stone,boulder,natural,outdoor,landscape",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "boulder_01.blend"
+    }
+}

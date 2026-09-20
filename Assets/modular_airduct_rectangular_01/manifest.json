@@ -1,0 +1,12 @@
+{
+    "name": "Modular Airduct Rectangular 01",
+    "creator": "A3D-Blacksmith",
+    "category": "Models",
+    "filename": "Assets.zip",
+    "tags": "metal,airduct,ventilation,hvac,industrial,modular,rectangular",
+    "website": "",
+    "powerplug": {
+        "mode": "blend",
+        "src": "modular_airduct_rectangular_01.blend"
+    }
+}

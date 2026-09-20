@@ -1,0 +1,1 @@
+Industrial steel shelving unit with frame construction, ideal for warehouses, garages, or storage areas.

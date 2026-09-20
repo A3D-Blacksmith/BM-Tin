@@ -1,0 +1,1 @@
+Wooden display shelving for retail or exhibition spaces, featuring natural wood grain and clean display surfaces.

@@ -1,0 +1,1 @@
+Rectangular modular air duct system for HVAC and ventilation setups, featuring clean metal surfaces and industrial design.

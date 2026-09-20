@@ -1,0 +1,1 @@
+A large natural stone boulder with detailed rock surface texture, perfect for outdoor scenes, landscaping, or geological formations.
