@@ -1,5 +1,53 @@
 [
     {
+        "name": "Gold",
+        "repo": "A3D-Blacksmith/BM-Tin",
+        "manifest": {
+            "name": "Gold",
+            "creator": "A3D-Blacksmith",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "metal,gold,yellow,precious,metallic,luxury,reflective",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Gold.blend"
+            }
+        },
+        "creator": "A3D-Blacksmith",
+        "tags": "metal,gold,yellow,precious,metallic,luxury,reflective",
+        "realname": "Gold",
+        "category": "Materials",
+        "date": 1795639612.924775,
+        "size": "12086431",
+        "thumbnail": "Assets/Gold/thumbnail.png",
+        "description": "Gold is a dense, soft precious metal with a rich warm-yellow colour and distinctive soft reflections. This material suits jewellery, coins, awards, and luxury product visualisation."
+    },
+    {
+        "name": "Platinum",
+        "repo": "A3D-Blacksmith/BM-Tin",
+        "manifest": {
+            "name": "Platinum",
+            "creator": "A3D-Blacksmith",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "metal,platinum,silver,white,precious,metallic,dense",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Platinum.blend"
+            }
+        },
+        "creator": "A3D-Blacksmith",
+        "tags": "metal,platinum,silver,white,precious,metallic,dense",
+        "realname": "Platinum",
+        "category": "Materials",
+        "date": 1795639612.9447749,
+        "size": "12086384",
+        "thumbnail": "Assets/Platinum/thumbnail.png",
+        "description": "Platinum is a dense, silvery-white precious metal with a soft, even sheen and excellent tarnish resistance. This material is suited to fine jewellery, laboratory equipment, and premium product renders."
+    },
+    {
         "name": "laminate_floor_02",
         "repo": "A3D-Blacksmith/BM-Tin",
         "manifest": {
@@ -18,34 +66,10 @@
         "tags": "even,flat,wooden,floor,laminate",
         "realname": "Laminate Floor 02",
         "category": "Materials",
-        "date": 1795556343.7649693,
+        "date": 1795639613.1507745,
         "size": "78113827",
         "thumbnail": "Assets/laminate_floor_02/thumbnail.png",
         "description": ""
-    },
-    {
-        "name": "Silver",
-        "repo": "A3D-Blacksmith/BM-Tin",
-        "manifest": {
-            "name": "Silver",
-            "creator": "A3D-Blacksmith",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "metal,silver,white,bright,precious,metallic,reflective",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Silver.blend"
-            }
-        },
-        "creator": "A3D-Blacksmith",
-        "tags": "metal,silver,white,bright,precious,metallic,reflective",
-        "realname": "Silver",
-        "category": "Materials",
-        "date": 1795556343.623971,
-        "size": "76567227",
-        "thumbnail": "Assets/Silver/thumbnail.png",
-        "description": "Silver is a bright white precious metal with the highest electrical and thermal conductivity of any metal. This material captures its brilliant, cool reflections for tableware, jewellery, and mirrors."
     },
     {
         "name": "aerial_grass_rock",
@@ -66,7 +90,7 @@
         "tags": "",
         "realname": "Aerial Grass Rock",
         "category": "Textures",
-        "date": 1795556343.6859703,
+        "date": 1795639613.0727746,
         "size": "77252926",
         "thumbnail": "Assets/aerial_grass_rock/thumbnail.png",
         "description": ""
@@ -90,7 +114,7 @@
         "tags": "wood,shelves,display,retail,furniture",
         "realname": "Wooden Display Shelves 01",
         "category": "3D Models",
-        "date": 1795556343.793969,
+        "date": 1795639613.1777744,
         "size": "1477897",
         "thumbnail": "Assets/wooden_display_shelves_01/thumbnail.png",
         "description": "Wooden display shelving for retail or exhibition spaces, featuring natural wood grain and clean display surfaces."
@@ -114,34 +138,34 @@
         "tags": "metal,airduct,ventilation,hvac,industrial,modular,rectangular",
         "realname": "Modular Airduct Rectangular 01",
         "category": "3D Models",
-        "date": 1795556343.7759693,
+        "date": 1795639613.1607745,
         "size": "4575944",
         "thumbnail": "Assets/modular_airduct_rectangular_01/thumbnail.png",
         "description": "Rectangular modular air duct system for HVAC and ventilation setups, featuring clean metal surfaces and industrial design."
     },
     {
-        "name": "Gold",
+        "name": "Chrome",
         "repo": "A3D-Blacksmith/BM-Tin",
         "manifest": {
-            "name": "Gold",
+            "name": "Chrome",
             "creator": "A3D-Blacksmith",
             "category": "Materials",
             "filename": "Assets.zip",
-            "tags": "metal,gold,yellow,precious,metallic,luxury,reflective",
+            "tags": "metal,chrome,chrome,mirror,polished,reflective,metallic",
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "Gold.blend"
+                "src": "Chrome.blend"
             }
         },
         "creator": "A3D-Blacksmith",
-        "tags": "metal,gold,yellow,precious,metallic,luxury,reflective",
-        "realname": "Gold",
+        "tags": "metal,chrome,chrome,mirror,polished,reflective,metallic",
+        "realname": "Chrome",
         "category": "Materials",
-        "date": 1795556343.554972,
-        "size": "12086431",
-        "thumbnail": "Assets/Gold/thumbnail.png",
-        "description": "Gold is a dense, soft precious metal with a rich warm-yellow colour and distinctive soft reflections. This material suits jewellery, coins, awards, and luxury product visualisation."
+        "date": 1795639612.904775,
+        "size": "12086510",
+        "thumbnail": "Assets/Chrome/thumbnail.png",
+        "description": "Chrome is a hard, bright metal finish with an almost mirror-like reflectivity. This material delivers the crisp, highly reflective surface typical of automotive trim, bathroom fixtures, and furniture."
     },
     {
         "name": "Titanium",
@@ -162,34 +186,34 @@
         "tags": "metal,titanium,grey,strong,lightweight,metallic,aerospace",
         "realname": "Titanium",
         "category": "Materials",
-        "date": 1795556343.634971,
+        "date": 1795639613.0197747,
         "size": "12086373",
         "thumbnail": "Assets/Titanium/thumbnail.png",
         "description": "Titanium is a strong, low-density grey metal with a subtle warm sheen and outstanding corrosion resistance. This material suits aerospace parts, medical implants, and high-end consumer products."
     },
     {
-        "name": "Iron",
+        "name": "modular_metal_gutter",
         "repo": "A3D-Blacksmith/BM-Tin",
         "manifest": {
-            "name": "Iron",
+            "name": "Modular Metal Gutter",
             "creator": "A3D-Blacksmith",
-            "category": "Materials",
+            "category": "3D Models",
             "filename": "Assets.zip",
-            "tags": "metal,iron,grey,dark,industrial,metallic,strong",
+            "tags": "metal,gutter,drainage,roof,industrial,modular",
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "Iron.blend"
+                "src": "modular_metal_gutter.blend"
             }
         },
         "creator": "A3D-Blacksmith",
-        "tags": "metal,iron,grey,dark,industrial,metallic,strong",
-        "realname": "Iron",
-        "category": "Materials",
-        "date": 1795556343.5639718,
-        "size": "12086349",
-        "thumbnail": "Assets/Iron/thumbnail.png",
-        "description": "Iron is a strong, dark grey industrial metal with a subdued metallic response, prone to rust when exposed. This material fits machinery, tools, structural beams, and worn industrial scenes."
+        "tags": "metal,gutter,drainage,roof,industrial,modular",
+        "realname": "Modular Metal Gutter",
+        "category": "3D Models",
+        "date": 1795639613.1687744,
+        "size": "6544378",
+        "thumbnail": "Assets/modular_metal_gutter/thumbnail.png",
+        "description": "Metal gutter component for roof drainage systems, with weathered industrial appearance and modular connectivity."
     },
     {
         "name": "Bronze",
@@ -210,10 +234,58 @@
         "tags": "metal,bronze,copper,brown,alloy,metallic,aged",
         "realname": "Bronze",
         "category": "Materials",
-        "date": 1795556343.5259721,
+        "date": 1795639612.894775,
         "size": "12086745",
         "thumbnail": "Assets/Bronze/thumbnail.png",
         "description": "Bronze is a copper-tin alloy with a deep reddish-brown hue that develops a muted patina over time. This material works well for sculptures, bells, marine hardware, and antique-style props."
+    },
+    {
+        "name": "Silver",
+        "repo": "A3D-Blacksmith/BM-Tin",
+        "manifest": {
+            "name": "Silver",
+            "creator": "A3D-Blacksmith",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "metal,silver,white,bright,precious,metallic,reflective",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Silver.blend"
+            }
+        },
+        "creator": "A3D-Blacksmith",
+        "tags": "metal,silver,white,bright,precious,metallic,reflective",
+        "realname": "Silver",
+        "category": "Materials",
+        "date": 1795639613.0077748,
+        "size": "76567227",
+        "thumbnail": "Assets/Silver/thumbnail.png",
+        "description": "Silver is a bright white precious metal with the highest electrical and thermal conductivity of any metal. This material captures its brilliant, cool reflections for tableware, jewellery, and mirrors."
+    },
+    {
+        "name": "Iron",
+        "repo": "A3D-Blacksmith/BM-Tin",
+        "manifest": {
+            "name": "Iron",
+            "creator": "A3D-Blacksmith",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "metal,iron,grey,dark,industrial,metallic,strong",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Iron.blend"
+            }
+        },
+        "creator": "A3D-Blacksmith",
+        "tags": "metal,iron,grey,dark,industrial,metallic,strong",
+        "realname": "Iron",
+        "category": "Materials",
+        "date": 1795639612.9347749,
+        "size": "12086349",
+        "thumbnail": "Assets/Iron/thumbnail.png",
+        "description": "Iron is a strong, dark grey industrial metal with a subdued metallic response, prone to rust when exposed. This material fits machinery, tools, structural beams, and worn industrial scenes."
     },
     {
         "name": "boulder_01",
@@ -234,7 +306,7 @@
         "tags": "rock,stone,boulder,natural,outdoor,landscape",
         "realname": "Boulder 01",
         "category": "3D Models",
-        "date": 1795556343.7049701,
+        "date": 1795639613.0907745,
         "size": "13803135",
         "thumbnail": "Assets/boulder_01/thumbnail.png",
         "description": "A large natural stone boulder with detailed rock surface texture, perfect for outdoor scenes, landscaping, or geological formations."
@@ -258,82 +330,10 @@
         "tags": "metal,copper,orange,red,metallic,conductive,patina",
         "realname": "Copper",
         "category": "Materials",
-        "date": 1795556343.544972,
+        "date": 1795639612.914775,
         "size": "12087440",
         "thumbnail": "Assets/Copper/thumbnail.png",
         "description": "Copper is a warm orange-red metal with strong reflectivity that ages into a characteristic green patina. This material captures its fresh, glowing surface for wiring, cookware, roofing, and decorative accents."
-    },
-    {
-        "name": "modular_metal_gutter",
-        "repo": "A3D-Blacksmith/BM-Tin",
-        "manifest": {
-            "name": "Modular Metal Gutter",
-            "creator": "A3D-Blacksmith",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "metal,gutter,drainage,roof,industrial,modular",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "modular_metal_gutter.blend"
-            }
-        },
-        "creator": "A3D-Blacksmith",
-        "tags": "metal,gutter,drainage,roof,industrial,modular",
-        "realname": "Modular Metal Gutter",
-        "category": "3D Models",
-        "date": 1795556343.7839692,
-        "size": "6544378",
-        "thumbnail": "Assets/modular_metal_gutter/thumbnail.png",
-        "description": "Metal gutter component for roof drainage systems, with weathered industrial appearance and modular connectivity."
-    },
-    {
-        "name": "Platinum",
-        "repo": "A3D-Blacksmith/BM-Tin",
-        "manifest": {
-            "name": "Platinum",
-            "creator": "A3D-Blacksmith",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "metal,platinum,silver,white,precious,metallic,dense",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Platinum.blend"
-            }
-        },
-        "creator": "A3D-Blacksmith",
-        "tags": "metal,platinum,silver,white,precious,metallic,dense",
-        "realname": "Platinum",
-        "category": "Materials",
-        "date": 1795556343.5739717,
-        "size": "12086384",
-        "thumbnail": "Assets/Platinum/thumbnail.png",
-        "description": "Platinum is a dense, silvery-white precious metal with a soft, even sheen and excellent tarnish resistance. This material is suited to fine jewellery, laboratory equipment, and premium product renders."
-    },
-    {
-        "name": "Brass",
-        "repo": "A3D-Blacksmith/BM-Tin",
-        "manifest": {
-            "name": "Brass",
-            "creator": "A3D-Blacksmith",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "metal,brass,gold,yellow,alloy,metallic,decorative",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Brass.blend"
-            }
-        },
-        "creator": "A3D-Blacksmith",
-        "tags": "metal,brass,gold,yellow,alloy,metallic,decorative",
-        "realname": "Brass",
-        "category": "Materials",
-        "date": 1795556343.5169723,
-        "size": "12087505",
-        "thumbnail": "Assets/Brass/thumbnail.png",
-        "description": "Brass is a copper-zinc alloy with a warm golden-yellow tone, valued for decorative hardware, instruments, and fittings. This material reproduces its soft, polished sheen and rich reflective glow."
     },
     {
         "name": "Aluminium",
@@ -354,10 +354,34 @@
         "tags": "metal,aluminium,silver,metallic,brushed,lightweight",
         "realname": "Aluminium",
         "category": "Materials",
-        "date": 1795556343.5069726,
+        "date": 1795639612.874775,
         "size": "12086551",
         "thumbnail": "Assets/Aluminium/thumbnail.png",
         "description": "Aluminium is a lightweight, silvery-white metal known for its high reflectivity and excellent corrosion resistance. This material captures its clean, slightly brushed metallic surface, suited to modern appliances, aircraft parts, and industrial design."
+    },
+    {
+        "name": "Brass",
+        "repo": "A3D-Blacksmith/BM-Tin",
+        "manifest": {
+            "name": "Brass",
+            "creator": "A3D-Blacksmith",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "metal,brass,gold,yellow,alloy,metallic,decorative",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Brass.blend"
+            }
+        },
+        "creator": "A3D-Blacksmith",
+        "tags": "metal,brass,gold,yellow,alloy,metallic,decorative",
+        "realname": "Brass",
+        "category": "Materials",
+        "date": 1795639612.884775,
+        "size": "12087505",
+        "thumbnail": "Assets/Brass/thumbnail.png",
+        "description": "Brass is a copper-zinc alloy with a warm golden-yellow tone, valued for decorative hardware, instruments, and fittings. This material reproduces its soft, polished sheen and rich reflective glow."
     },
     {
         "name": "steel_frame_shelves_01",
@@ -378,33 +402,9 @@
         "tags": "metal,steel,shelves,storage,industrial,frame",
         "realname": "Steel Frame Shelves 01",
         "category": "3D Models",
-        "date": 1795556343.789969,
+        "date": 1795639613.1747744,
         "size": "5605090",
         "thumbnail": "Assets/steel_frame_shelves_01/thumbnail.png",
         "description": "Industrial steel shelving unit with frame construction, ideal for warehouses, garages, or storage areas."
-    },
-    {
-        "name": "Chrome",
-        "repo": "A3D-Blacksmith/BM-Tin",
-        "manifest": {
-            "name": "Chrome",
-            "creator": "A3D-Blacksmith",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "metal,chrome,chrome,mirror,polished,reflective,metallic",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Chrome.blend"
-            }
-        },
-        "creator": "A3D-Blacksmith",
-        "tags": "metal,chrome,chrome,mirror,polished,reflective,metallic",
-        "realname": "Chrome",
-        "category": "Materials",
-        "date": 1795556343.535972,
-        "size": "12086510",
-        "thumbnail": "Assets/Chrome/thumbnail.png",
-        "description": "Chrome is a hard, bright metal finish with an almost mirror-like reflectivity. This material delivers the crisp, highly reflective surface typical of automotive trim, bathroom fixtures, and furniture."
     }
 ]
